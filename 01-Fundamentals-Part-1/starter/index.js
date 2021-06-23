@@ -36,7 +36,7 @@ const avg = scores => {
 console.log(`Avg Scores of Dolphins: ${avg(dolphinScores)}`);
 console.log(`Avg Scores of Koalas: ${avg(koalasScores)}`);
 */
-/*
+
 const amt = 250;
 
 const tip = bill => bill>50 && bill<300? bill*0.15: bill*0.2;
@@ -48,5 +48,4 @@ Total Amount: ${tamt(amt)}`);
 console.log("Bill Amount: "+amt+"\n\
 Tip Amount: "+tip(amt)+"\n\
 Total Amount: "+tamt(amt));
-*/
 
